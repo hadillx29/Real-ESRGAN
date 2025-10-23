@@ -1,0 +1,2 @@
+cd Downloads/Real-ESRGAN-ncnn-vulkan-macos
+./realesrgan-ncnn-vulkan -i 01.mp4 -o anime_hd.mp4 -s 4k -n realesr-animevideov3 -f jpg
